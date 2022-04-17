@@ -16,6 +16,8 @@
 
 ###### things to do: auto extract rar files if AUTO_RAR is true🙂 <br>
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## Original Slam mirror Repo : https://github.com/SlamDevs/slam-mirrorbot <br>
 
 **telegram : https://t.me/sourcecodeofeverything <br>**
